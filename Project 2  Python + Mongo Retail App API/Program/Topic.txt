@@ -1,0 +1,6 @@
+Retail App API
+ 
+1. Get all products in the store in json format
+2. Insert 10 new products with category soap (master - child) 
+3. Update price of product with category shampoo by 10rs
+4. Delete all products with old date (less than 3 months)
